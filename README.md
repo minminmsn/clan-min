@@ -5,7 +5,7 @@
 ### [闵氏源流](https://github.com/minminmsn/clan-min/blob/master/%E9%97%B5%E6%B0%8F%E6%B5%81%E6%BA%90.md)
 
 
-### [闵氏族谱](https://github.com/minminmsn/clan-min/blob/master/docs/geneal/%E9%97%B5%E6%B0%8F%E6%97%8F%E8%B0%B1.md)
+### [闵氏族谱](https://github.com/minminmsn/clan-min/blob/master/geneal/%E9%97%B5%E6%B0%8F%E6%97%8F%E8%B0%B1.md)
 
 
 ### [闵氏迁移路线](https://github.com/minminmsn/clan-min/blob/master/migrate/%E9%97%B5%E6%B0%8F%E8%BF%81%E7%A7%BB%E8%B7%AF%E7%BA%BF.md)
