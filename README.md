@@ -14,9 +14,7 @@
 ### [闵氏区域分布](https://github.com/minminmsn/clan-min/blob/master/area/%E9%97%B5%E6%B0%8F%E5%8C%BA%E5%9F%9F%E5%88%86%E5%B8%83.md)
 
 
-### 闵氏友情连接
-- **[闵氏宗亲网](http://www.minshizongqin.com/main.asp)**
+### [闵氏友情链接]()
 
 
-### 闵氏联络方式
-- **闵氏QQ群一 56276860**
+### [闵氏联络方式](https://github.com/minminmsn/clan-min/blob/master/%E9%97%B5%E6%B0%8F%E8%81%94%E7%BB%9C%E6%96%B9%E5%BC%8F.md)
