@@ -12,11 +12,57 @@
 
 ### [闵氏区域分布](https://github.com/minminmsn/clan-min/blob/master/area/%E9%97%B5%E6%B0%8F%E5%8C%BA%E5%9F%9F%E5%88%86%E5%B8%83.md)
 
-### [闵氏辈分排行]()
+### [闵氏辈分排行](https://github.com/minminmsn/clan-min/blob/master/seniority/%E9%97%B5%E6%B0%8F%E8%BE%88%E5%88%86%E6%8E%92%E8%A1%8C.md)
 
 
 ### [闵氏友情链接](https://github.com/minminmsn/clan-min/blob/master/%E9%97%B5%E6%B0%8F%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.md)
 
-
 ### [闵氏联络方式](https://github.com/minminmsn/clan-min/blob/master/%E9%97%B5%E6%B0%8F%E8%81%94%E7%BB%9C%E6%96%B9%E5%BC%8F.md)
 
+### **榜上有名**
+
+- **上古**
+  - 燧人氏
+  - 伏羲
+  - 少典
+- **三黄五帝**
+  - 黄帝
+  - 少昊
+  - 蟜极
+  - 帝喾
+- **夏**
+  - 后稷
+  - 不窋
+  - 鞠
+- **商**
+  - 公刘
+  - 庆节
+  - 皇仆
+  - 差弗
+  - 毁隃
+  - 公非
+  - 高圉
+  - 亚圉
+  - 姬类
+  - 周太王
+  - 周王季
+  - 周文王姬昌
+  - 周公旦
+- **西周**
+  - 鲁伯禽
+  - 鲁炀公
+  - 鲁魏公
+  - 鲁献公
+  - 鲁武公
+  - 鲁孝公
+- **东周**
+  - 鲁惠公
+  - 鲁桓公
+  - 鲁庄公
+  - 鲁闵公
+  - 闵子鲁
+  - 闵泽
+  - 闵伯衍
+  - 闵子建
+  - 闵子马
+  - 闵子骞
